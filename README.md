@@ -10,3 +10,4 @@ this is master master add add.
 
 this is feature branch add.
 
+测试git stash,bug修复
