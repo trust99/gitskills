@@ -10,6 +10,9 @@ this is master master add add.
 
 this is feature branch add.
 
+o
+little me add this line.then push remote 
+
 测试git stash,bug修复
 
 
