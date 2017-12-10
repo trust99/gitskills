@@ -4,6 +4,8 @@ Creating a new branch is quick.
 this is dev branch add.
 
 this is master master add add.
+哈哈哈哈哈哈哈啊哈哈哈哈哈，太开心啦！！！
+
 
 
 this is feature branch add.
