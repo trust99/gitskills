@@ -11,3 +11,6 @@ this is master master add add.
 this is feature branch add.
 
 测试git stash,bug修复
+
+
+我不哭我已经没有尊严能放弃
